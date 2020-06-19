@@ -1,0 +1,12 @@
+.container {
+  border: 1px solid red;
+  width: 336px;
+  height: 69px;
+}
+
+.minuto {
+  border: 1px solid red;
+  width: 3px ;
+  height: 69px;
+  float: left;
+}
